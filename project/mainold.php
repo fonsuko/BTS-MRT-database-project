@@ -2,6 +2,7 @@
 	session_start();
 	require_once('connect.php');
 	require_once('extension.php');
+	require_once('record.php');
 ?>
 <!DOCTYPE html>
 <html>
